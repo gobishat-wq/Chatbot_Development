@@ -1,0 +1,22 @@
+
+question_id,category,question
+1,factual,What is Python?
+2,factual,What is a variable?
+3,factual,What is a list in Python?
+4,factual,What is a tuple?
+5,factual,What is a database?
+6,factual,What is SQL?
+7,factual,What is artificial intelligence?
+8,factual,What is machine learning?
+9,reasoning,Why are functions useful in programming?
+10,reasoning,What is the difference between a list and a tuple?
+11,reasoning,Why should we validate user input?
+12,reasoning,Why is conversation history useful in a chatbot?
+13,coding,Write Python code to add two numbers.
+14,coding,Write Python code to check whether a number is even.
+15,coding,Write a Python for loop to print numbers from 1 to 10.
+16,coding,Write a Python function to find the largest of two numbers.
+17,coding,Show an example of reading a CSV file in Python.
+18,general,How can I improve my programming skills?
+19,general,Explain loops to a beginner.
+20,general,Give me a simple daily Python practice plan.
